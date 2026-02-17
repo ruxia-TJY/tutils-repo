@@ -1,0 +1,9 @@
+name: tcount
+version: 0.0.1
+description: get current folder repository count
+author: Jared3Dev
+email: ruxia.tjy@qq.com
+run: getfilecount.py
+src:
+  - getfilecount.py
+license: MIT
