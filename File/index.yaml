@@ -1,3 +1,5 @@
 name: File
 scripts:
-  - Z2V0RmlsZUNvdW50
+  - tcount
+  - rmbe
+  - rmed

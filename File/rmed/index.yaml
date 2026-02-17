@@ -1,0 +1,9 @@
+name: rmed
+version: 0.0.1
+description: remove all empty directory
+author: Jared3Dev
+email: ruxia.tjy@qq.com
+run: rmed.py
+src:
+  - rmed.py
+license: MIT

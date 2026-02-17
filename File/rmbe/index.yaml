@@ -1,0 +1,9 @@
+name: rmbe
+version: 0.0.1
+description: remove file by extension
+author: Jared3Dev
+email: ruxia.tjy@qq.com
+run: rmbe.py
+src:
+  - rmbe.py
+license: MIT

@@ -1,0 +1,9 @@
+name: c2ico
+version: 0.0.1
+description: Convert image to ICO
+author: Jared3Dev
+email: ruxia.tjy@qq.com
+run: c2ico.py
+src:
+  - c2ico.py
+license: MIT

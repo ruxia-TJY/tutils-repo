@@ -1,6 +1,6 @@
 name: tcount
 version: 0.0.1
-description: get current folder repository count
+description: get current folder file count
 author: Jared3Dev
 email: ruxia.tjy@qq.com
 run: getfilecount.py
