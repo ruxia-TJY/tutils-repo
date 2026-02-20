@@ -82,7 +82,7 @@ def setWallpaper(image_path: str):
 def downloadbingImg(set_as_wallpaper=False):
     global TODAY_IMAGE_LOCAL_NAME,TODAY_IMAGE_LOCAL_PATH,BING_JSON_PATH
 
-    dir_path = pathlib.Path.cwd() / 'data'
+    dir_path = pathlib.Path(__file__).parent / 'data'
     if not dir_path.exists():
         dir_path.mkdir(parents=True)
     TODAY_IMAGE_LOCAL_PATH = dir_path / TODAY_IMAGE_LOCAL_NAME
