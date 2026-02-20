@@ -1,0 +1,9 @@
+name: bingwallpaper
+version: 0.0.1
+description: download today bing Image and set as wallpaper
+author: Jared3Dev
+email: ruxia.tjy@qq.com
+run: wallpaper.py
+src:
+  - wallpaper.py
+license: MIT
